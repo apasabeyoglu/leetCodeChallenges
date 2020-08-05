@@ -13,6 +13,6 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1]
 ```
 
-###Result
+### Result
 
 Runtime: 4 ms, faster than 94.21% of Go online submissions for Two Sum.
