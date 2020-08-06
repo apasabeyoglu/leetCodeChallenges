@@ -1,4 +1,4 @@
-# LeetCode Add Two Numbers Challenge
+# LeetCode FizzBuzz Challenge
 
 Write a program that outputs the string representation of numbers from 1 to n.
 
